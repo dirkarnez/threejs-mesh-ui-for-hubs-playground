@@ -1,4 +1,4 @@
-[threejs-for-hubs-playground](https://dirkarnez.github.io/threejs-for-hubs-playground)
+[threejs-mesh-ui-for-hubs-playground](https://dirkarnez.github.io/threejs-mesh-ui-for-hubs-playground)
 ====================================================================
 
 ### Using
